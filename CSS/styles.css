@@ -244,14 +244,14 @@ body{
 
 /* RESPONSIVIDADE */
 
-@media(max-width: 550px){
+@media(max-width: 740px){
     .cabecalho{
         min-height: 100vh;
         display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        margin-top: 30px;
+        margin-top: 70px;
         & .foto-perfil{
             width: 350px;
             height: 450px;
